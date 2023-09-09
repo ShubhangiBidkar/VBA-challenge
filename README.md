@@ -1,7 +1,8 @@
 # VBA-challenge
 # VBA-Challenge to make a Stock Market Analysis
 
-Create VBA script for Stock Data Analysis, loop through Stock Market Data and return Yearly Stock Performance
+Create VBA script for Stock Data Analysis, loop through Stock Market Data and return Yearly Stock Performance.
+
 
 This project utilizes VBA scripting to analyze generated stock market data. The data is sourced into Microsoft Excel. The stock data has three sheets for year 2018,2019 and 2020.This is a large file so it may take long time to execute. A test data file which is a smaller file with six sheets(A-F) was used for testing.
 
